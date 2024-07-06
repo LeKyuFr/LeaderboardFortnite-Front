@@ -33,12 +33,12 @@ Fortnite-Leaderboard/
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/votre-utilisateur/Fortnite-Leaderboard.git
+   git clone https://github.com/LeKyuFr/LeaderboardFortnite-Front.git
    ```
 
 2. **Naviguer vers le répertoire du projet :**
    ```bash
-   cd Fortnite-Leaderboard
+   cd LeaderboardFortnite-Front
    ```
 
 3. **Ouvrir `index.html` dans votre navigateur préféré :**
@@ -47,7 +47,7 @@ Fortnite-Leaderboard/
 ## Fonctionnement
 
 1. **Chargement de la page :**
-   Lorsque la page est chargée, le script JavaScript récupère les données depuis l'URL `https://backend.azenith.fr/res.json`.
+   Lorsque la page est chargée, le script JavaScript récupère les données depuis l'URL `https://*******.*******.**/res.json`.
 
 2. **Affichage du classement :**
    Les données des joueurs sont triées par rang et affichées sous forme de cartes de joueurs dans le div `leaderboard`.
